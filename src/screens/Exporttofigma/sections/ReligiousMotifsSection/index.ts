@@ -1,0 +1,1 @@
+export { ReligiousMotifsSection } from "./ReligiousMotifsSection";
